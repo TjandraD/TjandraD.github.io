@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tjandra Darmo</title>
+    <link>https://tjandradarmo.me/</link>
+    <description>Recent content on Tjandra Darmo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jun 2021 10:57:07 +0700</lastBuildDate><atom:link href="https://tjandradarmo.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flash Chat</title>
+      <link>https://tjandradarmo.me/projects/flash_chat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tjandradarmo.me/projects/flash_chat/</guid>
+      <description>Platform: Mobile Apps
+An instant messaging app which helps you easily connected with your friends
+GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Ngabolang</title>
+      <link>https://tjandradarmo.me/projects/ngabolang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tjandradarmo.me/projects/ngabolang/</guid>
+      <description>Platform: Mobile &amp;amp; Web Apps
+Ngabolang is an application to share your experiences when visiting tourist attractions. In Ngabolang, you can upload and also view photos from various tourist destinations. You can also find out the location of the tourist spots by using the map available in the Ngabolang app.
+Award: Ministry of Tourism and Creative Economy of Indonesia’s (Kemenparekraf) Digital Challenge (2020)
+GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Prawitama Care</title>
+      <link>https://tjandradarmo.me/projects/prawitama_care/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tjandradarmo.me/projects/prawitama_care/</guid>
+      <description>Platform: Web Apps
+A crowdfunding web by Prawitama to help gather funds for internal charity acts.
+GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>My Journey in Generasi GIGIH — Beginner Level</title>
+      <link>https://tjandradarmo.me/blog/generasi-gigih/</link>
+      <pubDate>Wed, 23 Jun 2021 10:57:07 +0700</pubDate>
+      
+      <guid>https://tjandradarmo.me/blog/generasi-gigih/</guid>
+      <description>Background Story Back in April 2021, I haven’t got any job yet after graduating from Vocational High School. By the end of the month, I found a really interesting post on LinkedIn which stated that Yayasan Anak Bangsa Bisa (under Gojek) is opening a program called Generasi GIGIH. Generasi GIGIH was addressed for those who have graduated high school, university, or a final year university student. They gave us 3 main learning path, which is: Backend Engineering, Frontend Engineering, and Data Analyst path.</description>
+    </item>
+    
+    <item>
+      <title>Returning to Windows From Ubuntu, Twice. Why?</title>
+      <link>https://tjandradarmo.me/blog/linux-experience/</link>
+      <pubDate>Tue, 12 Jan 2021 10:59:28 +0700</pubDate>
+      
+      <guid>https://tjandradarmo.me/blog/linux-experience/</guid>
+      <description>First of all, let me give you a little background about myself. I am a Software Engineer Student, mainly focused on working with mobile applications using Flutter. I usually use VS Code and Android Studio as my main tools for developing mobile apps. It works just fine with Ubuntu, for a short amount of time until I changed my mind.
+Now, about my main Operating System. Since the first time I have a laptop, I have already used Windows for the OS.</description>
+    </item>
+    
+  </channel>
+</rss>

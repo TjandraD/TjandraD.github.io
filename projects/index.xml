@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Tjandra Darmo</title>
+    <link>https://tjandradarmo.me/projects/</link>
+    <description>Recent content in Projects on Tjandra Darmo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tjandradarmo.me/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flash Chat</title>
+      <link>https://tjandradarmo.me/projects/flash_chat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tjandradarmo.me/projects/flash_chat/</guid>
+      <description>Platform: Mobile Apps
+An instant messaging app which helps you easily connected with your friends
+GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Ngabolang</title>
+      <link>https://tjandradarmo.me/projects/ngabolang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tjandradarmo.me/projects/ngabolang/</guid>
+      <description>Platform: Mobile &amp;amp; Web Apps
+Ngabolang is an application to share your experiences when visiting tourist attractions. In Ngabolang, you can upload and also view photos from various tourist destinations. You can also find out the location of the tourist spots by using the map available in the Ngabolang app.
+Award: Ministry of Tourism and Creative Economy of Indonesia’s (Kemenparekraf) Digital Challenge (2020)
+GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Prawitama Care</title>
+      <link>https://tjandradarmo.me/projects/prawitama_care/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tjandradarmo.me/projects/prawitama_care/</guid>
+      <description>Platform: Web Apps
+A crowdfunding web by Prawitama to help gather funds for internal charity acts.
+GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
