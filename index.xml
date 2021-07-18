@@ -6,7 +6,7 @@
     <description>Recent content on Tjandra Darmo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jun 2021 10:57:07 +0700</lastBuildDate><atom:link href="https://tjandradarmo.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jul 2021 15:17:29 +0700</lastBuildDate><atom:link href="https://tjandradarmo.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flash Chat</title>
       <link>https://tjandradarmo.me/projects/flash_chat/</link>
@@ -39,6 +39,16 @@ GitHub Repository</description>
       <description>Platform: Web Apps
 A crowdfunding web by Prawitama to help gather funds for internal charity acts.
 GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>My Experience in Generasi Gigih Intermediate Level - Week 2</title>
+      <link>https://tjandradarmo.me/blog/week2-gigih/</link>
+      <pubDate>Sun, 18 Jul 2021 15:17:29 +0700</pubDate>
+      
+      <guid>https://tjandradarmo.me/blog/week2-gigih/</guid>
+      <description>This post is dedicated as a reflection of my experience in the 2nd week in the Generasi GIGIH- Intermediate Level program. I have spent the last two weeks learning Ruby &amp;amp; MySQL within Generasi GIGIH.
+While the first week is mostly about Ruby and OOP, the second week dive deeper into database, ERD, and SQL. In the second week, the mentors taught us about HTTP methods (POST, GET, PUT, DELETE, etc), Entity Relational Diagram (ERD), and MySQL database.</description>
     </item>
     
     <item>
